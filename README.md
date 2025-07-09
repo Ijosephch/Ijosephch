@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o José (Ijosephch)
 
-Sou um desenvolvedor web autodidata e criativo, que constrói soluções reais utilizando **HTML, CSS e JavaScript** — tudo isso a partir de um **tablet Android**, usando **Termux** e **Acode**.
+Sou um desenvolvedor web autodidata e criativo, que constrói soluções reais utilizando {HTML, CSS e JavaScript} — tudo isso a partir de um {tablet Android}, usando {Termux} e {Acode}.
+{Hambiente de desenvolvimento temporário!}
 
 ---
 
@@ -32,9 +33,9 @@ Sou um desenvolvedor web autodidata e criativo, que constrói soluções reais u
 
 ### 📫 Contato
 
-- 📧 joseph@email.com *(coloque seu email real)*
-- 📱 [Instagram](https://instagram.com/in/Ijoseph_jf)  
-- 💼 [LinkedIn](https://linkedin.com/in/José Ferreira)
+- 📧 Ijosephcharles75@gmail.com
+- 📱 {Instagram} (https://www.instagram.com/ijoseph_jf/profilecard/?igsh=MndudmpweXpkZzcx)  
+- 💼 {LinkedIn} (https://www.linkedin.com/in/jos%C3%A9-ferreira-437727370/")
 
 ---
 
